@@ -8,3 +8,11 @@ This project includes/Esse projeto inclui:
 
 - Um menu/A menu.
 - Um jogo de plataforma intuitivo com algumas fases/An intuitive platform game with some phases.
+
+<div align="center">
+  <img src="./.github/ProjectPhoto1.png" alt="First project photo">
+</div>
+
+<div align="center">
+  <img src="./.github/ProjectPhoto2.png" alt="Second project photo">
+</div>
