@@ -6,7 +6,7 @@ Projeto final da matéria de desenvolvimento de jogos no instituto federal de mi
 
 This project includes/Esse projeto inclui:
 
-- Um menu/A menu.
+- Um menu interativo/An interactive menu.
 - Um jogo de plataforma intuitivo com algumas fases/An intuitive platform game with some phases.
 
 <div align="center">
